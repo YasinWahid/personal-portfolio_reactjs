@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@iconscout/react-unicons": "^2.2.4",
+    "emailjs": "^4.0.3",
+    "framer-motion": "^12.5.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-scroll": "^1.9.3",
+    "swiper": "^11.2.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
